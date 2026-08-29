@@ -1,0 +1,6 @@
+{
+  "name": "Mr Joseph Premium Cars",
+  "description": "Luxury Vehicles in Nairobi, Kenya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
